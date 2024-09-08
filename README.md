@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Medical Referral Program**
 
-- 🌱 I’m currently learning **ASP.Net, C# and SQL**
+- 🌱 I’m currently learning **ASP.NET MVC, C# and SQL**
 
 - 💬 Ask me about **React**
 
