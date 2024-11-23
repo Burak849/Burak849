@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **burakkurtulus07@hotmail.com**
+- 📫 How to reach me **burakkurtulus018@gmail.com**
 
 
 <p align="left">
