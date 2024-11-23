@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak Kurtulus</h1>
-<h3 align="center">A passionate web developer from Turkey</h3>
+<h3 align="center">A passionate full-stack web developer from Turkey</h3>
 
 <p align="left"> <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="burak849" /> </p>
 
-- 🔭 I’m currently working on **Medical Referral Program**
+- 🔭 I’m currently working on **Reservation System**
 
 - 🌱 I’m currently learning **ASP.NET MVC, C# and SQL**
 
