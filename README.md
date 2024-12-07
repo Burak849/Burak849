@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Burak Kurtulus</h1>
-<h3 align="center">A passionate full-stack web developer from Turkey</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burak849&label=Profile%20views&color=0e75b6&style=flat" alt="burak849" /> </p>
+<h1 align="center">
+  <a href="https://github.com/huseyinbartukara">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=36&center=true&multiline=true&width=700&height=100&lines=Hi%20%F0%9F%91%8B,+I%27m+Burak;Full-stack+Web+Developer+(24y)+from+Bursa">
+  </a>
+</h1>
+
 <img src="https://raw.githubusercontent.com/burak849/Burak849/main/github-user-contribution.svg" alt="Description" style="width:100%; max-width:600px;">
 
 - 🔭 I’m currently working on **Reservation System**
