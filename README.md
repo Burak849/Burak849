@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **burakkurtulus018@gmail.com**
 
-- 📄 Know about my experiences: [My Website](https://burakkurtulush.azurewebsites.net)
 
 # 🤝 Social Media:
 <p align="left">
