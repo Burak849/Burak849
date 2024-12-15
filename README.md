@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Reservation System**
 
-- 🌱 I’m currently learning **ASP.NET MVC, C# and SQL**
+- 🌱 I’m currently learning **Typescript and Next.js**
 
 - 💬 Ask me about **React**
 
