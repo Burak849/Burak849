@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<img src="https://raw.githubusercontent.com/burak849/Burak849/main/github-user-contribution.svg" alt="Description" style="width:100%; max-width:600px;">
+
 
 - 🔭 I’m currently working on **Reservation System**
 
