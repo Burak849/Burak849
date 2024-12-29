@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Reservation System**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Typescript and Next.js**
 
