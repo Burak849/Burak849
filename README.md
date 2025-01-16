@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **freecodecamp-react-projects**
+- 🔭 I’m currently working on **reservationsystem**
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **React**
 
