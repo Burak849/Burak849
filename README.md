@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **reservationsystem**
+- 🔭 I’m currently working on **Vue Project**
 
 - 🌱 I’m currently learning **Redux**
 
