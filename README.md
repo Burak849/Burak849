@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Redux**
 
