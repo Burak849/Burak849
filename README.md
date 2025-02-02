@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Redux and Sass**
 
 - 💬 Ask me about **React**
 
