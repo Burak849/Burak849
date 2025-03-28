@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burak849&label=Profile%20views&color=0e75b6&style=flat" alt="burak849" /> </p>
 <h1 align="center">
-  <a href="https://github.com/Burak849"><img src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=34&center=true&multiline=true&width=800&height=100&lines=Hi%20%F0%9F%91%8B,+I%27m+Burak;+25y/o+Software+Developer+from+Turkey"></a>
+  <a href="https://github.com/Burak849"><img src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=34&center=true&multiline=true&width=800&height=100&lines=Hi%20%F0%9F%91%8B,+I%27m+Burak;+25y/o+Software+Engineer+from+Turkiye"></a>
 </h1>
 
 
