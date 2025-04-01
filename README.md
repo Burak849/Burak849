@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **TypeScript**
+- 🔭 I’m currently working on **Advanced CSS-SASS**
 
 - 🌱 I’m currently learning **Redux and Sass**
 
