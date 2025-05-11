@@ -1,15 +1,15 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burak849&label=Profile%20views&color=0e75b6&style=flat" alt="burak849" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=burak849&label=Profile%20views&color=0e75b6&style=flat" alt="Burak849" /> </p>
 <h1 align="center">
-  <a href="https://github.com/Burak849"><img src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=34&center=true&multiline=true&width=800&height=100&lines=Hi%20%F0%9F%91%8B,+I%27m+Burak;+25y/o+Software+Engineer+from+Turkiye"></a>
+  <a href="https://github.com/Burak849"><img src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=34&center=true&multiline=true&width=800&height=100&lines=Hi%20%F0%9F%91%8B,+I%27m+Burak;+25y/o+Web+Developer+from+Turkiye"></a>
 </h1>
 
 
 
 - 🔭 I’m currently working on **Full-stack Development**
 
-- 🌱 I’m currently learning **React-Redux**
+- 🌱 I’m currently learning **SEO Optimization**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **JS / TS**
 
 - 📫 How to reach me **burakkurtulus018@gmail.com**
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/burak-kurtulush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burak-kurtulush/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/burak.krtlsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/burak.krtlsh/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Burak849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/alasiff/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Burak849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Burak849/" height="30" width="40" /></a>
 </p>
 
 <p align="left">
